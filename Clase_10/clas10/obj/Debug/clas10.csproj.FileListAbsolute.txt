@@ -1,0 +1,4 @@
+F:\Documentos Lore\Documents\Practicas de C#\Clase_10\clas10\bin\Debug\clas10.dll
+F:\Documentos Lore\Documents\Practicas de C#\Clase_10\clas10\bin\Debug\clas10.pdb
+F:\Documentos Lore\Documents\Practicas de C#\Clase_10\clas10\obj\Debug\clas10.dll
+F:\Documentos Lore\Documents\Practicas de C#\Clase_10\clas10\obj\Debug\clas10.pdb
